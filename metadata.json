@@ -1,0 +1,6 @@
+{
+  "name": "EduHub - Student & Teacher Portal",
+  "description": "A clean, responsive, and functional educational portal for students and teachers with course tracking, assignment submissions, class schedules, and interactive grading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
